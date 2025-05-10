@@ -1,1 +1,1 @@
-https://github.com/roberthcasanova/mi-cv-html
+https://roadmap.sh/projects/single-page-cv
