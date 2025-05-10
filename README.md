@@ -2,7 +2,7 @@
 
 Este es un proyecto donde muestro mi currículum en formato HTML.
 
-## URL del proyect
+## URL del proyecto
 
 
 
