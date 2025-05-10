@@ -1,7 +1,8 @@
-# Mi Proyecto
+# Mi CV HTML
 
-Este es un nuevo proyecto HTML disponible en GitHub.
+Este es un proyecto donde muestro mi currículum en formato HTML.
 
-## URL del proyecto
+## URL del proyect
+
 
 
